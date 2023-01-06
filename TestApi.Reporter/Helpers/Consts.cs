@@ -2,6 +2,6 @@
 
 public class Consts
 {
-    public const string Token = "5847257811:AAEGXbTQOQV5HFNg-Nb_tedubHgKquevLws";
-    public const long AdminId = 1560231850;
+    public const string Token = "";
+    public const long AdminId = 0000000000;
 }
